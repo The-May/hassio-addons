@@ -1,6 +1,6 @@
 name: "Saufbot"
 description: "Docker Telegram Saufbot"
-version: "1.0.0"
+version: "1.0.1"
 slug: "addon_saufbot"
 init: false
 arch:
@@ -9,6 +9,6 @@ arch:
   - armhf
   - armv7
   - i386
-panel_icon: mdi:beer
+panel_icon: mdi:dice-multiple
 map:
   - share:rw
